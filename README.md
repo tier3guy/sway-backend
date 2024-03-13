@@ -45,7 +45,7 @@ Sway is a backend service designed to facilitate anonymous polling using blockch
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/tier3guy/sway
+git clone https://github.com/tier3guy/sway-backend
 ```
 
 2. Navigate to the project directory:
